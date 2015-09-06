@@ -1,0 +1,10 @@
+var numberOfDots = 1;
+numberOfDots = numberOfDots + 1;
+down();
+down();down();down();down();
+right();
+right();
+setColor("blue");
+right();
+right();
+up();
